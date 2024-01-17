@@ -1,0 +1,1 @@
+@layer decorators{.border-rainbow{background:linear-gradient(var(--purple-extra-light),var(--purple-extra-light)),radial-gradient(circle at top left,var(--blue-light) 40%,var(--purple-light) 60%,var(--orange) 80%);background-clip:padding-box,border-box;background-origin:border-box;border:4px double transparent;border-radius:var(--h6);filter:drop-shadow(0 4px 4p var(--shadow))}}
